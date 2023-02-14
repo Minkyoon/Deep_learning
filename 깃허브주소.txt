@@ -1,0 +1,5 @@
+
+
+https://tensorflow.blog/handson-ml2/
+
+https://github.com/rickiepark/handson-ml2
