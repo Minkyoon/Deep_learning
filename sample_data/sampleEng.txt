@@ -1,0 +1,4 @@
+There are several possible ways to estimate θ from the observed frequencies. For example, if we equate θ 2 with 187/1029, we obtain .4263 as an estimate of θ. Intuitively,
+however, it seems that this procedure ignores some of the information in the other
+cells. If we let X1, X2, and X3 denote the counts in the three cells and let n = 1029,
+the log likelihood of θ is (you should check this):

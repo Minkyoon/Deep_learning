@@ -3,3 +3,5 @@
 https://tensorflow.blog/handson-ml2/
 
 https://github.com/rickiepark/handson-ml2
+
+https://nbviewer.org/github/rickiepark/handson-ml2/tree/master/
